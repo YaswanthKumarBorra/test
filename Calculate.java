@@ -5,7 +5,7 @@ public class Calculate{
 
     public static void main(String[] args) {
         Calculate c=new Calculate();
-        c.add(30, 40);
+        c.add(40, 50);
     }
 
 }
